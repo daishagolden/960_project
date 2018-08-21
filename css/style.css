@@ -67,6 +67,7 @@
     background: linear-gradient(to bottom, #2f4e6e 0%,#0e171f 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2f4e6e', endColorstr='#0e171f',GradientType=0 );
     font-size:15px;
+   
 }
 
 .lowest{
@@ -83,6 +84,7 @@
     text-decoration:none;
     text-align:center;
     display:inline-block;
+    font-family:'Fjalla One', sans-serif;
 }
 
 .bottom li{
